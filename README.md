@@ -2,9 +2,9 @@
 
 First GitHub repository due to the SheCodes Max course
 
-**> Status: 21. Jan 2024
---> Currently in Workshop total: Week 11 (Start weather app from scratch)
-(SheCodes Plus Week7)**
+**> Status: 03. Feb 2024
+--> Currently in Workshop total: Week 12 (Start weather app from scratch)
+(SheCodes Plus Week8)**
 
 Overview of Course content:
 Workshop Week 1
